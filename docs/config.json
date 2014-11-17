@@ -1,7 +1,7 @@
 {
 	"title": "StreamRoot",
 	"tagline": "StreamRoot Documentation and User Guide",
-	"docs_path": "../client/sr-client-last/doc",
+	"docs_path": "../client/streamroot-documentation/doc",
 	"image": "",
 	"theme": "blue",
 	"template":"default",
